@@ -1,0 +1,151 @@
+[ {
+  "uid" : "eab18252de9efda",
+  "name" : "cy.scrollTo() - scroll the window or element to a position",
+  "time" : {
+    "start" : 1611607438002,
+    "stop" : 1611607440203,
+    "duration" : 2201
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c1a7babfbd97a9a8",
+  "name" : ".focus() - focus on a DOM element",
+  "time" : {
+    "start" : 1611607429905,
+    "stop" : 1611607430140,
+    "duration" : 235
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cad2c25c9de2c5fd",
+  "name" : ".submit() - submit a form",
+  "time" : {
+    "start" : 1611607431297,
+    "stop" : 1611607431780,
+    "duration" : 483
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "905f15f5e42a710c",
+  "name" : ".check() - check a checkbox or radio element",
+  "time" : {
+    "start" : 1611607434497,
+    "stop" : 1611607435463,
+    "duration" : 966
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6685de049318f736",
+  "name" : "should work",
+  "time" : {
+    "start" : 1611607880806,
+    "stop" : 1611607887437,
+    "duration" : 6631
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "4c170f1d80787294",
+  "name" : ".dblclick() - double click on a DOM element",
+  "time" : {
+    "start" : 1611607433907,
+    "stop" : 1611607434194,
+    "duration" : 287
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d77df36119b39529",
+  "name" : ".rightclick() - right click on a DOM element",
+  "time" : {
+    "start" : 1611607434199,
+    "stop" : 1611607434492,
+    "duration" : 293
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2a38e52dea8b2b33",
+  "name" : ".select() - select an option in a <select> element",
+  "time" : {
+    "start" : 1611607436438,
+    "stop" : 1611607437411,
+    "duration" : 973
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "843590672c4a449",
+  "name" : ".scrollIntoView() - scroll an element into view",
+  "time" : {
+    "start" : 1611607437416,
+    "stop" : 1611607437728,
+    "duration" : 312
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ac6f35f203598ad1",
+  "name" : ".trigger() - trigger an event on a DOM element",
+  "time" : {
+    "start" : 1611607437741,
+    "stop" : 1611607437997,
+    "duration" : 256
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b357bc57981b7179",
+  "name" : ".click() - click on a DOM element",
+  "time" : {
+    "start" : 1611607431786,
+    "stop" : 1611607433901,
+    "duration" : 2115
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eddecc8389b7e00b",
+  "name" : ".type() - type into a DOM element",
+  "time" : {
+    "start" : 1611607424880,
+    "stop" : 1611607429888,
+    "duration" : 5008
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "194e721e50118f53",
+  "name" : ".blur() - blur off a DOM element",
+  "time" : {
+    "start" : 1611607430159,
+    "stop" : 1611607430696,
+    "duration" : 537
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7d7de3e09371067c",
+  "name" : ".uncheck() - uncheck a checkbox element",
+  "time" : {
+    "start" : 1611607435468,
+    "stop" : 1611607436432,
+    "duration" : 964
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3188f069dd3ef81f",
+  "name" : ".clear() - clears an input or textarea element",
+  "time" : {
+    "start" : 1611607430703,
+    "stop" : 1611607431290,
+    "duration" : 587
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
