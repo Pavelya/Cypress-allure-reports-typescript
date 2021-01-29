@@ -70,13 +70,13 @@ Please read [CONTRIBUTING.md](doc/CONTRIBUTING.md) for details of the process fo
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
-Thanks
 
 ---
 
 Huge kudos to wonderful software that allowed to create this project:
 
-[![Allure](https://avatars3.githubusercontent.com/u/5879127?s=200&v=4)](https://github.com/allure-framework/allure2)  
-[![Cypress](https://www.cypress.io/static/33498b5f95008093f5f94467c61d20ab/05330/cypress-logo.png)](https://www.cypress.io/)
+
+[![Allure](https://avatars3.githubusercontent.com/u/5879127?s=200&v=4)](https://github.com/allure-framework/allure2)  [![Cypress](https://www.cypress.io/static/33498b5f95008093f5f94467c61d20ab/05330/cypress-logo.png)](https://www.cypress.io/)
+
