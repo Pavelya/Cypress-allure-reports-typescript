@@ -57,8 +57,8 @@ allure open
 
 ## Built With
 
-- [Cypress](https://www.cypress.io/) - Modern testing with cross-browser compatibility
-- [Allure reports](http://allure.qatools.ru/) - Framework designed to create test execution reports
+-   [Cypress](https://www.cypress.io/) - Modern testing with cross-browser compatibility
+-   [Allure reports](http://allure.qatools.ru/) - Framework designed to create test execution reports
 
 ## Contributing
 
@@ -72,11 +72,8 @@ Please read [CONTRIBUTING.md](doc/CONTRIBUTING.md) for details of the process fo
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
-
 ---
 
 Huge kudos to wonderful software that allowed to create this project:
 
-
-[![Allure](https://avatars3.githubusercontent.com/u/5879127?s=200&v=4)](https://github.com/allure-framework/allure2)  [![Cypress](https://www.cypress.io/static/33498b5f95008093f5f94467c61d20ab/05330/cypress-logo.png)](https://www.cypress.io/)
-
+[![Allure](https://avatars3.githubusercontent.com/u/5879127?s=200&v=4)](https://github.com/allure-framework/allure2) [![Cypress](https://www.cypress.io/static/33498b5f95008093f5f94467c61d20ab/05330/cypress-logo.png)](https://www.cypress.io/)

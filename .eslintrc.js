@@ -9,7 +9,7 @@ module.exports = {
         'prettier/@typescript-eslint',
         'plugin:cypress/recommended',
         'plugin:prettier/recommended',
-    ],
+    ],    
     rules: {
         // 'no-unused-expressions': 0,
         // 'chai-friendly/no-unused-expressions': 2,
