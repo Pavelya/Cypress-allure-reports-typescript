@@ -3,3 +3,6 @@ allure-report/
 allure-results/
 examples/
 cypress/plugins/
+
+#readme
+README.ms
