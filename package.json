@@ -41,7 +41,8 @@
     },
     "lint-staged": {
         "*": [
-            "prettier --write"
+            "prettier --write",
+            "eslint '*/**/*.{js,ts,tsx}' --quiet --fix"
         ]
     }
 }
