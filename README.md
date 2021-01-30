@@ -1,7 +1,10 @@
 # Cypress-allure-reports-typescript
 
 <form>
-<img alt="GitHub issues" src="https://img.shields.io/github/issues/pavelya/Cypress-allure-reports-typescript?style=for-the-badge"> <img alt="GitHub" src="https://img.shields.io/github/license/pavelya/Cypress-allure-reports-typescript?style=for-the-badge"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/pavelya?style=for-the-badge"> <img alt="GitHub stars" src="https://img.shields.io/github/stars/pavelya/Cypress-allure-reports-typescript?style=for-the-badge">
+<img alt="GitHub issues" src="https://img.shields.io/github/issues/pavelya/Cypress-allure-reports-typescript?style=for-the-badge">
+<img alt="GitHub" src="https://img.shields.io/github/license/pavelya/Cypress-allure-reports-typescript?style=for-the-badge">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/pavelya?style=for-the-badge">
+<img alt="GitHub stars" src="https://img.shields.io/github/stars/pavelya/Cypress-allure-reports-typescript?style=for-the-badge">
 </form>
 
 Automation Testing using Cypress, Typescript and Allure reports
