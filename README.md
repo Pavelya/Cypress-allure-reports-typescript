@@ -5,6 +5,7 @@
 <img alt="GitHub" src="https://img.shields.io/github/license/pavelya/Cypress-allure-reports-typescript?style=for-the-badge">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/pavelya?style=for-the-badge">
 <img alt="GitHub stars" src="https://img.shields.io/github/stars/pavelya/Cypress-allure-reports-typescript?style=for-the-badge">
+<img alt="Commitizen-friendly" src="https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=for-the-badge&logo=appveyor">
 </form>
 
 Automation Testing using Cypress, Typescript and Allure reports
@@ -55,14 +56,42 @@ allure open
 
 ```
 
+## Scripts in package.json
+
+```bash
+To run the scripts: 
+npm run SCRIPT_NAME
+
+```
+
+Scripts
+
+| Variable      | Description                           | 
+| --------------| ------------------------------------- | 
+| cypress:run   | Run the tests                         | 
+| lint          | Run linter                            | 
+| prettier      | Run prettier check                    | 
+| format        | Run prettier write                    | 
+| commit        | Commit changes using Commitizen flow  | 
+| changelog     | Update CHANGELOG.md](CHANGELOG.md)    | 
+
+
+## Commit changes
+
+```bash
+With cz script
+git add .
+npm run commit
+
+linter and prettier will as pre commit hooks
+
+```
+
 ## Built With
 
 -   [Cypress](https://www.cypress.io/) - Modern testing with cross-browser compatibility
 -   [Allure reports](http://allure.qatools.ru/) - Framework designed to create test execution reports
-
-## Contributing
-
-Please read [CONTRIBUTING.md](doc/CONTRIBUTING.md) for details of the process for submitting pull requests.
+-   [Commitizen](https://github.com/commitizen/) - Zen-like commit messages
 
 ## Authors
 
@@ -76,4 +105,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Huge kudos to wonderful software that allowed to create this project:
 
-[![Allure](https://avatars3.githubusercontent.com/u/5879127?s=200&v=4)](https://github.com/allure-framework/allure2) [![Cypress](https://www.cypress.io/static/33498b5f95008093f5f94467c61d20ab/05330/cypress-logo.png)](https://www.cypress.io/)
+[![Allure](https://avatars3.githubusercontent.com/u/5879127?s=200&v=4)](https://github.com/allure-framework/allure2) [![Cypress](https://www.cypress.io/static/33498b5f95008093f5f94467c61d20ab/05330/cypress-logo.png)](https://www.cypress.io/) [![Commitizen](https://avatars.githubusercontent.com/u/11980392?s=200&v=4)](https://github.com/commitizen/) 
