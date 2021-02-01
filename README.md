@@ -1,12 +1,8 @@
 # Cypress-allure-reports-typescript
 
-<form>
-<img alt="GitHub issues" src="https://img.shields.io/github/issues/pavelya/Cypress-allure-reports-typescript?style=for-the-badge">
-<img alt="GitHub" src="https://img.shields.io/github/license/pavelya/Cypress-allure-reports-typescript?style=for-the-badge">
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/pavelya?style=for-the-badge">
-<img alt="GitHub stars" src="https://img.shields.io/github/stars/pavelya/Cypress-allure-reports-typescript?style=for-the-badge">
-<img alt="Commitizen-friendly" src="https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=for-the-badge&logo=appveyor">
-</form>
+[![License](https://img.shields.io/github/license/pavelya/Cypress-allure-reports-typescript?style=for-the-badge)](https://github.com/Pavelya/Cypress-allure-reports-typescript)
+[![GitHub issues](https://img.shields.io/github/issues/pavelya/Cypress-allure-reports-typescript?style=for-the-badge)](https://github.com/Pavelya/Cypress-allure-reports-typescript/issues)
+[![Commitizen-friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=for-the-badge&logo=appveyor)](https://github.com/commitizen/)
 
 Automation Testing using Cypress, Typescript and Allure reports
 
@@ -73,7 +69,7 @@ Scripts
 | prettier      | Run prettier check                    | 
 | format        | Run prettier write                    | 
 | commit        | Commit changes using Commitizen flow  | 
-| changelog     | Update CHANGELOG.md](CHANGELOG.md)    | 
+| changelog     | Update [CHANGELOG.md](CHANGELOG.md)    | 
 
 
 ## Commit changes
@@ -83,7 +79,7 @@ With cz script
 git add .
 npm run commit
 
-linter and prettier will as pre commit hooks
+linter and prettier will run as pre commit hooks
 
 ```
 

@@ -1,6 +1,20 @@
 # 1.1.0 (2021-01-31)
 
 
+### Bug Fixes
+
+* test ([24102a4](https://github.com/Pavelya/Cypress-allure-reports-typescript/commit/24102a4e419beb433e74c7603f1789a9470950c0))
+
+
+### Features
+
+* **changelog:** add support for changelog ([11e9dda](https://github.com/Pavelya/Cypress-allure-reports-typescript/commit/11e9ddaa4ba005445d187fe4c49026a4f1404ec9))
+
+
+
+# 1.1.0 (2021-01-31)
+
+
 ### Features
 
 * **changelog:** add support for changelog ([11e9dda](https://github.com/Pavelya/Cypress-allure-reports-typescript/commit/11e9ddaa4ba005445d187fe4c49026a4f1404ec9))
