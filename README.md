@@ -55,22 +55,21 @@ allure open
 ## Scripts in package.json
 
 ```bash
-To run the scripts: 
+To run the scripts:
 npm run SCRIPT_NAME
 
 ```
 
 Scripts
 
-| Variable      | Description                           | 
-| --------------| ------------------------------------- | 
-| cypress:run   | Run the tests                         | 
-| lint          | Run linter                            | 
-| prettier      | Run prettier check                    | 
-| format        | Run prettier write                    | 
-| commit        | Commit changes using Commitizen flow  | 
-| changelog     | Update [CHANGELOG.md](CHANGELOG.md)    | 
-
+| Variable    | Description                          |
+| ----------- | ------------------------------------ |
+| cypress:run | Run the tests                        |
+| lint        | Run linter                           |
+| prettier    | Run prettier check                   |
+| format      | Run prettier write                   |
+| commit      | Commit changes using Commitizen flow |
+| changelog   | Update [CHANGELOG.md](CHANGELOG.md)  |
 
 ## Commit changes
 
@@ -101,4 +100,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Huge kudos to wonderful software that allowed to create this project:
 
-[![Allure](https://avatars3.githubusercontent.com/u/5879127?s=200&v=4)](https://github.com/allure-framework/allure2) [![Cypress](https://www.cypress.io/static/33498b5f95008093f5f94467c61d20ab/05330/cypress-logo.png)](https://www.cypress.io/) [![Commitizen](https://avatars.githubusercontent.com/u/11980392?s=200&v=4)](https://github.com/commitizen/) 
+[![Allure](https://avatars3.githubusercontent.com/u/5879127?s=200&v=4)](https://github.com/allure-framework/allure2) [![Cypress](https://www.cypress.io/static/33498b5f95008093f5f94467c61d20ab/05330/cypress-logo.png)](https://www.cypress.io/) [![Commitizen](https://avatars.githubusercontent.com/u/11980392?s=200&v=4)](https://github.com/commitizen/)
